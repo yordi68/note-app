@@ -1,0 +1,70 @@
+{
+  "allNotes": [
+    {
+      "id": 1,
+      "image": "./assets/img1.png",
+      "title": "Lorem Ipsum",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tincidunt blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 2,
+      "image": "./assets/img2.png",
+      "title": "Dolor Sit Amet",
+      "text": "Dolor sit amet, consectetur adipiscing elit. Sed euismod tincidunt blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 3,
+      "image": "./assets/img3.png",
+      "title": "Consectetur Adipiscing",
+      "text": "Consectetur adipiscing elit. Sed euismod tincidunt blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 4,
+      "image": "./assets/img4.png",
+      "title": "Vestibulum Ante Ipsum",
+      "text": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 5,
+      "image": "./assets/img5.png",
+      "title": "Donec Auctor Eleifend",
+      "text": "Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 6,
+      "image": "./assets/img6.png",
+      "title": "The Cheetah Sprint",
+      "text": "Aenean congue, purus sed semper varius, urna felis bibendum nibh, eu tincidunt ipsum nisl sit amet dui. Pellentesque auctor convallis pulvinar. Morbi ac sapien euismod, interdum nulla vel, viverra metus. Integer in eros hendrerit, aliquet lorem nec, fringilla est. Sed ut urna venenatis, tempor mi id, laoreet tellus. Quisque euismod fringilla risus, nec lobortis tortor convallis ac. Ut eu dolor id mi egestas iaculis. Sed finibus, quam in cursus suscipit, enim tortor varius velit, et venenatis ipsum mi non massa. Cras sed posuere felis. Nullam nec nisl magna. Sed laoreet sapien in lectus efficitur, quis interdum leo consequat. Donec dignissim nisi a augue eleifend, ut lobortis sem congue. Sed nec ante nec turpis imperdiet dignissim. Etiam blandit ex et mauris aliquet iaculis. Sed nec elit at eros ullamcorper hendrerit at a sapien."
+    },
+    {
+      "id": 7,
+      "image": "./assets/img7.png",
+      "title": "The Lion's Roar",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tincidunt blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    },
+    {
+      "id": 8,
+      "image": "./assets/img8.png",
+      "title": "The Elephant's Parade",
+      "text": "Etiam blandit ex et mauris aliquet iaculis. Sed nec elit at eros ullamcorper hendrerit at a sapien. Aenean congue, purus sed semper varius, urna felis bibendum nibh, eu tincidunt ipsum nisl sit amet dui. Pellentesque auctor convallis pulvinar. Morbi ac sapien euismod, interdum nulla vel, viverra metus. Integer in eros hendrerit, aliquet lorem nec, fringilla est. Sed ut urna venenatis, tempor mi id, laoreet tellus. Quisque euismod fringilla risus, nec lobortis tortor convallis ac. Ut eu dolor id mi egestas iaculis. Sed finibus, quam in cursus suscipit, enim tortor varius velit, et venenatis ipsum mi non massa. Cras sed posuere felis. Nullam nec nisl magna. Sed laoreet sapien in lectus efficitur, quis interdum leo consequat. Donec dignissim nisi a augue eleifend, ut lobortis sem congue."
+    },
+    {
+      "id": 9,
+      "image": "./assets/img9.png",
+      "title": "The Giraffe's Journey",
+      "text": "Pellentesque auctor convallis pulvinar. Morbi ac sapien euismod, interdum nulla vel, viverra metus. Integer in eros hendrerit, aliquet lorem nec, fringilla est. Sed ut urna venenatis, tempor mi id, laoreet tellus. Quisque euismod fringilla risus, nec lobortis tortor convallis ac. Ut eu dolor id mi egestas iaculis. Sed finibus, quam in cursus suscipit, enim tortor varius velit, et venenatis ipsum mi non massa. Cras sed posuere felis. Nullam nec nisl magna. Sed laoreet sapien in lectus efficitur, quis interdum leo consequat.Donec dignissim nisi a augue eleifend, ut lobortis sem congue. Sed nec ante nec turpis imperdiet dignissim. Etiam blandit ex et mauris aliquet iaculis. Sed nec elit at eros ullamcorper hendrerit at a sapien."
+    },
+    {
+      "id": 11,
+      "image": "./assets/img11.png",
+      "title": "The Hippo's Oasis",
+      "text": "Aenean congue, purus sed semper varius, urna felis bibendum nibh, eu tincidunt ipsum nisl sit amet dui. Pellentesque auctor convallis pulvinar. Morbi ac sapien euismod, interdum nulla vel, viverra metus. Integer in eros hendrerit, aliquet lorem nec, fringilla est. Sed ut urna venenatis, tempor mi id, laoreet tellus. Quisque euismod fringilla risus, nec lobortis tortor convallis ac. Ut eu dolor id mi egestas iaculis. Sed finibus, quam in cursus suscipit, enim tortor varius velit, et venenatis ipsum mi non massa. Cras sed posuere felis. Nullam nec nisl magna. Sed laoreet sapien in lectus efficitur, quis interdum leo consequat. Donec dignissim nisi a augue eleifend, ut lobortis sem congue."
+    },
+    {
+      "id": 12,
+      "image": "./assets/img12.png",
+      "title": "The Rhino's Strength",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tincidunt blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec auctor eleifend nibh, a malesuada urna viverra non. Duis hendrerit neque eu mauris iaculis, a volutpat sapien lacinia. Phasellus commodo, enim a cursus lacinia, nunc odio tincidunt eros, ac rutrum nunc nisi in sapien. Nunc tristique eu purus in pretium. Nullam placerat, ex eu vulputate pretium, sem est vestibulum velit, quis condimentum quam nulla vitae magna. Curabitur euismod mi a tortor dapibus feugiat."
+    }
+  ]
+}
